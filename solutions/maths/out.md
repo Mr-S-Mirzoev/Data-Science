@@ -1,8 +1,6 @@
 # Definition
 
-При каких значениях параметра *a* многочлен $$
-\frac{n!}{k!(n-k)!} = {n \choose k}
-$$ имеет кратный корень.
+При каких значениях параметра *a* многочлен <p align="center"><img src="https://rawgit.com/in	git@github.com:Mr-S-Mirzoev/Yandex-Contest-2021/main/svgs/32737e0a8d5a4cf32ba3ab1b74902ab7.svg?invert_in_darkmode" align=middle width=127.984725pt height=39.45249pt/></p> имеет кратный корень.
 
 Ответом на задачу является сумма подходящих значений a, если таких значений нет, то сумма равна 0.
 
