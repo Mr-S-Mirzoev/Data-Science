@@ -1,6 +1,6 @@
 # Definition
 
-Матрица A ортогональная: <p align="center"><img src="https://rawgit.com/Mr-S-Mirzoev/Yandex-Contest-2021/None/svgs/e9dfe7182ba4a687df3809726672a4a8.svg?invert_in_darkmode" align=middle width=221.46134999999998pt height=78.904815pt/></p>
+Матрица A ортогональная: <p align="center"><img src="https://raw.githubusercontent.com/Mr-S-Mirzoev/Yandex-Contest-2021/main/solutions/maths/svgs/e9dfe7182ba4a687df3809726672a4a8.svg?invert_in_darkmode" align=middle width=221.46134999999998pt height=78.904815pt/></p>
 
 Найдите сумму пропущенных элементов матрицы. Если ответ невозможно получить однозначно, то ответом будет -1. Если нет ни одной ортогональный матрицы данного шаблона, то ответом будет -2.
 Введите ответ (одно вещественное число, разделитель — точка), округлённый до четырех знаков после запятой.
