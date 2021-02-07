@@ -1,6 +1,6 @@
 # Definition
 
-При каких значениях параметра *a* многочлен <p align="center"><img src="./svgs/06342006e1a6153a2b402dd098c62596.svg" align=middle width=182.25074999999998pt height=18.312359999999998pt style="mix-blend-mode: multiply;"/></p> имеет кратный корень.
+При каких значениях параметра *a* многочлен <p align="center"><img src="./svgs/06342006e1a6153a2b402dd098c62596.svg" align=middle width=182.25074999999998pt height=18.312359999999998pt style="mix-blend-mode: multiply; opacity: 0.6;"/></p> имеет кратный корень.
 
 Ответом на задачу является сумма подходящих значений a, если таких значений нет, то сумма равна 0.
 
