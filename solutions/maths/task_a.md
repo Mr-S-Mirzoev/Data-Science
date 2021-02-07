@@ -1,6 +1,6 @@
 # Definition
 
-При каких значениях параметра *a* многочлен ![equation](https://latex.codecogs.com/gif.latex?f%28x%29%3Dx%5E3&plus;ax%5E2&plus;3x%20-%201.) имеет кратный корень.
+При каких значениях параметра *a* многочлен - <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />  ![equation](https://latex.codecogs.com/gif.latex?f%28x%29%3Dx%5E3&plus;ax%5E2&plus;3x%20-%201.) имеет кратный корень.
 
 Ответом на задачу является сумма подходящих значений a, если таких значений нет, то сумма равна 0.
 
