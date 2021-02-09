@@ -9,6 +9,8 @@
 
 # Solution
 
+Check for solution in this [PDF File](pdf/ya_task3.pdf)
+
 # Answer
 
 0.01

@@ -10,6 +10,8 @@
 
 # Solution
 
+Check for solution in this [PDF File](pdf/ya_task2.pdf)
+
 # Answer
 
 180

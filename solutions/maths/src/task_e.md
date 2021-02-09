@@ -14,6 +14,8 @@
 
 # Solution
 
+Check for solution in this [PDF File](pdf/ya_task5.pdf)
+
 # Answer
 
 -1

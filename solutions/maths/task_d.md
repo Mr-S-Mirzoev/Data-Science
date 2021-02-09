@@ -7,6 +7,8 @@
 
 # Solution
 
+Check for solution in this [PDF File](pdf/ya_task4.pdf)
+
 # Answer
 
 2418399.1523

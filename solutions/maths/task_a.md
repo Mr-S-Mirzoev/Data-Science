@@ -10,6 +10,8 @@
 
 # Solution
 
+Check for solution in this [PDF File](pdf/ya_task1.pdf)
+
 # Answer
 
 0.75

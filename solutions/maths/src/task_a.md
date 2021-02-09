@@ -11,6 +11,8 @@ f(x)=x^3+ax^2+3x - 1 $$ имеет кратный корень.
 
 # Solution
 
+Check for solution in this [PDF File](pdf/ya_task1.pdf)
+
 # Answer
 
 0.75
